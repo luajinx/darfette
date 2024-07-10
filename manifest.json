@@ -4,7 +4,7 @@
   "version": "1.0",
   "description": "Quality of life extension for https://www.darflen.com",
   "icons": {
-    "ribbon": "icons/ribbon.png"
+    "48": "icons/ribbon-48.png"
   },
 
   "content_scripts": [
