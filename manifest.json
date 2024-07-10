@@ -1,1 +1,17 @@
+{
+  "manifest_version": 1,
+  "name": "darfette",
+  "version": "1.0",
+
+  "description": "Quality of life extension for https://www.darflen.com",
+
+  "icons": {
+    "ribbon": "icons/ribbon"
+  },
+
+  "content_scripts": [
+    {
+    }
+  ]
+}
 
